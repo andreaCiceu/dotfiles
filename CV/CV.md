@@ -95,7 +95,7 @@ Interests: web development, web & digital design, marketing, arts, reading (fant
 
 ---
 
-[View Original](https://github.com/andreaCiceu/dotfiles/master/CV/CV.md) [Download PDF](https://raw.githubusercontent.com/andreaCiceu/dotfiles/master/CV/CV.pdf) [![CV to PDF](https://github.com/andreaCiceu/dotfiles/actions/workflows/cv_pdf.yaml/badge.svg)](https://github.com/andreaCiceu/dotfiles/actions/workflows/cv_pdf.yaml)
+[View Original](https://github.com/andreaCiceu/dotfiles/blob/master/CV/CV.md) [Download PDF](https://raw.githubusercontent.com/andreaCiceu/dotfiles/master/CV/CV.pdf) [![CV to PDF](https://github.com/andreaCiceu/dotfiles/actions/workflows/cv_pdf.yaml/badge.svg)](https://github.com/andreaCiceu/dotfiles/actions/workflows/cv_pdf.yaml)
 
 
 
