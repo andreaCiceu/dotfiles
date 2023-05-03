@@ -2,160 +2,103 @@
 
 ## BIO
 
-- **Andrei Ciceu**; _Cluj-Napoca, Cluj, Romania_
-- Full-stack developer _& more_
-- [+40 726 148 816](tel:0726148816)
-- [andrei@soferonline.ro](mailto:andrei@soferonline.ro)
-- **RO** (Native), **EN** (Proeficient), **FR** (Elementary)
+**Andrea Ciceu**;  _Cluj-Napoca, Cluj, Romania_
+- Junior FrontEnd Developer
+- **Romanian** (Native), **English** (Proeficient), **Norwegian** (Elementary)
 
-### Social
 
-[![Github](https://logo.clearbit.com/github.com?size=30)](https://github.com/andreiciceu) [![LinkedIN](https://logo.clearbit.com/linkedin.com?size=30)](https://www.linkedin.com/in/andrei-ciceu-26a35641/)
+## Contact Info & Social
+**Email & Phone**
+- [+40 732 403 658](phone:+40 732 403 658)
+- [andrea.ciceu.96@gmail.com](mailto:andrea.ciceu.96@gmail.com)
+
+**Links**
+[![Github](https://logo.clearbit.com/github.com?size=30)](https://github.com/andreaCiceu) [![LinkedIN](https://logo.clearbit.com/linkedin.com?size=30)](https://www.linkedin.com/in/andrea-ciceu-5980b7172/)
 
 ### Studies
 
-- _2015 - 2017_: UBB Cluj - Master - Artificial Intelligence
-- _2013 - 2014_: University of Wolverhampton, Erasmus, 1 semester - IT Project Management
-- _2012 - 2015_: UBB Cluj - Computer Science - English
-
+- _2019 - 2021_: UBB Cluj - Master - College of Political, Administrative and Communication Sciences;
+- _2015 - 2018_:  UBB Cluj - Faculty of Letterst - Norwegian and English (Language and Culture)
+- 
 ## Skills
 
-- Front-end: **React, NextJS, EmberJS, TWIG, CSS** _(SASS, Less, CSS Module, Post CSS)_, HTML, JavaScript, TypeScript
-  - Libraries (important ones): **Redux, Redux Saga, SWR, Hooks, TailwindCSS, Bootstrap, Webpack, react-hook-form**
-  - Testing: **React testing library, Jest, QUnit**
-- Mobile: **React-Native**, Ionic & Cordova (Angular 2)
-- Backend: **PHP**; **Symfony** 2, 3, 4, 5; [Api-Platform](https://api-platform.com)
-- DevOps: **Github Actions**, **CircleCI**, **Fastlane**, Git, GitFlow, Docker, GitHub Container Registry
-- Infrastructure: **Kubernetes** (with **Helm**), **Varnish** Cache, AWS (EC2, LB, EKS)
-
-### Others
-
-- WebSockets
-- Integrations:
-  - Facebook
-  - Apple (Login, Auto-deployment)
-  - Google Play Store, Firebase, Maps API
-  - Stripe, MobilPay (Card & SMS payment), Terracomm (SMS payment)
-  - Slack, Zoom, FGO, Gmail, Mailgun, Sendgrid, D7SMS,
-  - AWS (S3, RDS, Aurora, Media Platform, etc.)
-  - Sentry.io
-- Game development: **Unity** (C#)
-- Other known languages/syntaxes: Bash, C, C++, C#, Python, JavaScript, TypeScript, PHP, LUA, Pascal, Delphi, HTML, CSS, Nginx, Apache, Varnish, Dockerfile, docker-compose, Markdown
-- some (limited) GraphQL knowledge (Hasura)
-- Understanding and basic knowledge of: Sales, Client Acquisition, Client management, Marketing, Management, Business, Financials, Stock Market, Accounting.
-- Soft Skills: Giving proper Feedback (Feed forward), Effective & Assertive Communication, Team player, Seeing the big picture and how things fit together, Fast learner, I can understand & do various/different jobs, Critical thinking, I can come up with innovative solutions.
+- Web Development, Front-end Development, **ReactJS, NextJS, JavaScript, TailwindCSS, TypeScript**, HTML, CSS;
+- DevOps: **Git**, GitFlow, Continuous Integration and Continuous Delivery (CI/CD);
+- Other: Figma, Canva, UX & UI Design;
+- Other Departments: Marketing Management, Brand Awareness, Advertising, Online Marketing, Facebook Ads Manager, Copywriting, Search Engine Optimization, Web Content Writing, WordPress, Client management, Cusotmer Service, Google Tools;
+- Soft Skills: Effective Communication, Team player, Eager to learn and help others, I can understand & do various/different jobs, Dedicated to my work;
 
 # Experience
 
-## SoferOnline
+## SC SOFT ATAC SRL - SoferOnline
+- [Web](https://soferonline.ro/) and mobile ([Android](https://www.google.com/search?client=safari&rls=en&q=soferonline+play+store&ie=UTF-8&oe=UTF-8), [iOS](https://apps.apple.com/ro/app/soferonline-chestionare-auto/id1032823451))
 
-- [Web](https://soferonline.ro/) and mobile ([Android](https://www.google.com/search?client=safari&rls=en&q=soferonline+play+store&ie=UTF-8&oe=UTF-8), [iOS](https://apps.apple.com/ro/app/soferonline-chestionare-auto/id1032823451)) e-learning app for drivers licence and CRM platform for driving schools.
-- Founder, CEO, CTO, DevOps, Full-Stack Dev: 2015 - present (currently only maintenance)
+SoferOnline.ro - Web & mobile app for e-learning (diving school students, road legislation, driving theory and questionnaires for future drivers) and ERP for driving schools.
 
-The idea of this project came up during high-school, while preparing for my drivers licence exam.
+- _09.2022_ - On Going - Junior FrontEnd Developer
 
-Started as a vanilla PHP, HTML, JQuery, CSS project. Was majorly refreshed several times:
+-I've started working on this project in the marketing division, creating designs for marketing and the web/mobile apps.
+Later I transitioned into web development, as I gained an interest for transforming the designs I created into real components and pages for the website. I've worked closely with the development team and my brother who built this platform from scratch and learned a lot from them.
 
-- from vanilla PHP to Symfony 2, using Twig (template engine);
-- from Symfony 2 to Symfony 3 (& new programming patterns & paradigms)
-- from Ionic Cordova to React Native
-- adopted EmberJS framework for the CRM part
-- from one-server-only architecture to Kubernetes
-- from Twig (with JQuery and SCSS) and EmberJS to NextJS (React) and API-only on the PHP part
+**I've helped with:**
+- **integrating CarVertical** forms & banners into SoferOnline for our users to benefit from a discount
+- **redesigning & rewriting the sales page** dedicated to driving schools (where they can see the features we offer, pricing and contact details)
+- updating the card payment flow (integrated with Netopia MobilPay) to adhere to invocing legal requirements in Romania
+- creating landing pages for new marketing campaigns (& adding promo codes in the backend)
+- **releasing/deploying** new versions to production
+- syncying with the rest of the team for updates
+- gathering user feedback, discussing it with the team and proposing app changes
+- various bug fixes and improvements
 
-Technically, I've contributed to:
+The app is built using NextJS & React (TypeScript), consuming a Symfony PHP API, integrating with various services for payments, analytics, email, notifications, etc. The mobile app is built using React Native. CI/CD is automated using GitHub Actions, adheres to a simplified GitFlow system (as it's a small team); for task management we use GitHub projects.
 
-- **the infrastructure**: Kubernetes on IntoVPS.com, MySQL Database in a hosterion.ro managed VM, S3 for file storage, JWT for authentication; faced by a load balancer (ingress-nginx), and Nginx
-- **Backend**: PHP Symfony 3, with Continuous integration & testing with GitHub actions, deployment into K8S cluster
-- **FrontEnd**: NextJS, React-Native, EmberJS
-- **Mobile app**: React Native Android/iOS, with SQLite, Redux, Push notifications, Analytics, Fastlane integration with GitHub actions for atumoatic releases
-- **CI/CD**: GitHub Actions, with automatic deployment on GitHub releases
-  - Reporting using Sentry.io and Prometheus for k8 health
-- **Testing**: PHPUnit, Jest
-- **Integrated services**: Sentry.io, Netopia Mobilpay Card Payments, D7SMS, Facebook (Auth, Friends), Apple Login, In App Purchases (Process & Verify), Analytics (Google & Firebase), AdMob, Teracomm SMS Payment, Gmail SMTP, Slack, Zoom
+- _09.2018_ - On Going - Marketing Specialist
 
-The transition to NextJS, Kubernetes and Github Actions was a major step , as it improved a the developers life, ease of updates, stability and quality of the product.
-Over the years, I've worked with 6 developers. Currently the project is in maintenance mode, and has a dedicated team for marketing & support.
+When I've joined the team, marketing for this product was not really a strong point (as my brother had mostly focused on development), so I've started creating an online presence for our product, with all that was needed for it to shine and grow: marketing strategy, Social Media content, blog articles, presence and engagement; marketing campaigns, ads, search optimisation and automations (chat).
 
-Overall, I've occupied all positions (at different times): General Management, Project Management, Sales, Client Management, Marketing, Customer Support, etc. . I've went through them all, in order to better understand the business.
+**I've helped with:**
+- Managed social media presence and created relevant and engaging content. Built, tested, optimized and executed ads. Improved the product's visibility via SEO and ASO.
+- Increased the leads and conversion rate (to paid subscriptions) by over 60%.
+- Market research & analysis (audience, campaigns, industry trends, competitors etc.)
+- Managed and supervised communication with clients and strategic partners, improved the communication process via ChatBot automation.
+- Writing blog articles & maintining the Wordpress blog.
+- Worked directly with the IT team: aggregating customer feedback, helped at designing the web app, sales campaigns, mobile app and user flows;
 
-It was a lengthy process to get here, but I've learned a lot:
+- _07.2021 - 09.2022_ - Tester
 
-- it's better to start with simple, robust things, and build upon them
-- it's easier & usually better to use existing tools (e.g. I've build from scratch a PHP WebSocket chat system for live-chat, and replaced it entirely 4 years later with a simple Facebook Chat Widget)
-- it's better (but usually hard) to choose the right tools to start with; the ones widely used are usually the best choice (frameworks, libraries)
-- after creating the requirements, go through them again with the client, and get an OK/agreement/pre-contract
-- much much more...
+- Manually tested the website / mobile app and documented bugs;
+- Helped at decreasing the bug occurrences by over 50% in the last year (as reported by Sentry.io)
+- Additions/ideas that helped improve the user experience throughout the app (based on user reviews & my own testing).
 
-## ATACGames
+## Personal Projects
 
-- Puzzle freemium mobile games: [ColorBOX](https://play.google.com/store/apps/details?id=com.ATACGames.ColorBox), [ColorBOX 2](https://play.google.com/store/apps/details?id=com.ATACGames.ColorBoxJourney)
-- Co-Founder, Unity Developer: 06.2014 - 09.2017
+**Ține Minte** (_11.2022_ - On Going): https://tine-minte.softatac.com/ 
 
-With my associate, we started our journey into game development by making a copy of Flappy Bird in Unity. After, we decided to create something unique, fun & relaxing to play, so we decided on a connect-3 puzzle game (similar to CandyCrush). I did the development part, while my associate handled design and marketing.
+The app offers a place to organize notes/tasks by projects; be them work related (documents expiration dates, events, etc.) or personal events (a birthday, a trip etc.) and get notifications before the date. **You can CRUD your notes and set a due date for them.**
 
-The game was built in Unity3D, written in C#, with the following integrations:
+This is one of my first "real" projects, intended to help me learn the basics of web development. I wanted to actually build something usefull and get it into production, in the hands of users.
 
-- Facebook Login, Friends, Share
-- Google Play Services (Leaderboard)
-- Push & Local Notifications
-- Flurry Analytics (after transitioning from our in-house solution) & Crash Reporting
-- In App Payments
-- Reward Video ADS (with Flurry)
+Work in progress and next steps for the app:
+- To implement email notifications based on the project's due date.
+- Add extra security measures.
 
-This also constituted my licence thesis. The games are still available and played, but development (and maintenance) have been discontinued due to not enough revenue :/.
+The Front-End part of the app was my main task. It's built with NextJS (React and TypeScript), with TailwindCSS, CSS modules. The backend was built using Symfony PHP. It's deployed on Hosterion webservers, the NextJS project being build and exported as static files.
 
-## Soundmix.live (now EventMix)
+**Music Quiz** (_08.2022_): https://quiz-gamma-azure.vercel.app/
 
-- [Web](https://eventmix.live) and mobile event streaming app.
-- Senior BE PHP Developer: 03.2019 - 08.2019
+Interesting quizzes about music. It is an application that I use frequently together with my friends, to have fun and test our knowledge in the field of music. 
+A project with the purpose to practice React.js
 
-I was part of the feature team; our mission was to stream events from the Neversea festival (which we successfully accomplished).
+## More info about me
 
-As a PHP back-end developer (Symfony + API-Platform) I helped at building the APIs for the mobile and web clients, along with writing tests (BeHat). I also contributed to the distributed (via Redis) NodeJS WebSocket chat platform that was used in-app along the live-stream.
-
-Here is where I also dove deeper into server configuration and CI/CD, tweaking the Varnish cache to improve response times for publicly-available resources, managing AWS services (load-balancer, Redis, Kubernetes configuration) to fix some issues and improve overall server performance, stability and CI/CD.
-
-Based on my past experiences with react-native mobile apps from SoferOnline, I communicated effectively and offered solutions to the mobile team. I also managed the festival events in the app during one night of the festival (the stream URLs needed to be updated, and events marked accordingly to who was actually on the stage).
-
-## WhitePipe
-
-- [Web](https://white-pipe.com) SaaS business management platform for Freelancers and SMEs
-- CTO, DevOps, Senior FE React Developer: 09.2021 - present
-
-Leading a team of 6 developers, to build a platform that helps freelancers manage mundane/repetitive undertakings (contracts, bills, calendar events, tasks, time-tracking).
-
-Helped create the CI/CD pipelines, server Infrastructure, some coding guidelines and overall structure of the app, while being the middleware between the CEO and dev team.
-
-I also code as a front-end developer, NextJS (React). A nice aspect of the project, where we've had some challenges, is the use of [codegen tools](https://github.com/OpenAPITools/openapi-generator) to generate boilerplate "glue" code for both the Java Spring backend and React Axios front-end. This keeps things alike, avoids types mismatches, and the burden of manually defining TypeScript types.
-
-## Others
-
-- built WordPress websites, some with custom themes:
-  - https://psiholog-psihoterapeut-cluj.ro
-  - https://truenaturedevelopment.ro
-  - https://afacereatasubway.ro
-  - https://lemnulverde.ro
-- [Album ordering form](http://fplus-order.softatac.com) (NexJS)
-- Built a Crypto Trading BOT using the Binance API
-- [Raspberry PI home heating automation](https://github.com/woof-woof)
-- Built on a start-up idea, SmartStore (shopping delivery app, similar to https://www.bringo.ro/), but it was probably ahead of its time or didn't have the right go-to-market strategy
-- PlayTwin.com (on hold) - GraphQL
-
-# Other info
-
-- I love music (listening & playing), skiing, biking, basketball, nature, programming, geeky stuff, SF, movies, gaming, barbecue-ing
-- I hate badly written code & poor specs
-- Attended & finished Spherik Accelerator Progamme
-- Investor @ [Risky Business Ventures](https://riskybusiness.ro)
-- Won many prizes in IT/Math/Physics challenges & olympiads (mainly in high-school); proud of 2 mentions at National IT Olympiad ^^
+Interests: web development, web & digital design, marketing, arts, reading (fantasy especially), nature, psychology, philosophy, Dungeons and Dragons.
 
 ---
 
-[View Original](https://github.com/andreiciceu/dotfiles/blob/master/CV/CV.md) [Download PDF](https://raw.githubusercontent.com/andreiciceu/dotfiles/master/CV/CV.pdf) [![CV to PDF](https://github.com/andreiciceu/dotfiles/actions/workflows/cv_pdf.yaml/badge.svg)](https://github.com/andreiciceu/dotfiles/actions/workflows/cv_pdf.yaml)
+[View Original](https://github.com/andreaCiceu/dotfiles/master/CV/CV.md) [Download PDF](https://raw.githubusercontent.com/andreaCiceu/dotfiles/master/CV/CV.pdf) [![CV to PDF](https://github.com/andreaCiceu/dotfiles/actions/workflows/cv_pdf.yaml/badge.svg)](https://github.com/andreaCiceu/dotfiles/actions/workflows/cv_pdf.yaml)
 
-_Spare the trees & Don't print this if possible_
 
-Good day,
 
-Andrei.
+Have a great day,
+
+Andrea.
