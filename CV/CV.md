@@ -92,7 +92,6 @@ A project with the purpose to practice React.js
 ## More info about me
 
 Interests: web development, web & digital design, marketing, arts, reading (fantasy especially), nature, psychology, philosophy, Dungeons and Dragons.
-
 ---
 
 [View Original](https://github.com/andreaCiceu/dotfiles/blob/master/CV/CV.md) [Download PDF](https://raw.githubusercontent.com/andreaCiceu/dotfiles/blob/master/CV/CV.pdf) [![CV to PDF](https://github.com/andreaCiceu/dotfiles/actions/workflows/cv_pdf.yaml/badge.svg)](https://github.com/andreaCiceu/dotfiles/actions/workflows/cv_pdf.yaml)
